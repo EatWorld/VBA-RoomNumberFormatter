@@ -1,6 +1,6 @@
 # VBA-RoomNumberFormatter
 
-VBA script to format room numbers in selected Excel cells. Removes '#', replaces spaces with hyphens, and standardizes formats like '15-2-22-2201' or '15 2-2201' to '15-2-2201'.
+VBA脚本，用于格式化Excel选定单元格中的房号。它可以移除'#'符号，将空格替换为连字符，并将'15-2-22-2201'或'15 2-2201'等格式标准化为'15-2-2201'。
 
 ## 功能
 - 对选中的单元格进行操作，先将例如#-给替换删除掉，否则无法识别，例如#-15-2-2201，替换成15-2-2201
